@@ -306,4 +306,4 @@ function help() {
 }
 
 // Starting Bot
-client.login("NzIzODUzMjY5MzY1MTYyMDk1.Xu3rAw.yXIr_vEgTcyGHRj-5ZI6jYbRKAY");
+client.login("--Your Bot Token--");
